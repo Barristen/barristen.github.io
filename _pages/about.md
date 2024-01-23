@@ -57,12 +57,7 @@ Haihong Zhao, ***Chenyi Zi***, Yang Liu, Chen Zhang, Yan Zhou, Jia Li*
 
 # 📖 Educations
 - *2023.09 - 2024 (now)*, Mphil in HKUST(GZ)
-- *2023.07 - 2023.09 *, RA in HKUST(GZ)
+- *2023.07 - 2023.09*, RA in HKUST(GZ)
 - *2019.09 - 2023.07*, BS, SCUT(CS)
 
-# 💬 Invited Talks
-- *2021.06*, National Scholarship . 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
