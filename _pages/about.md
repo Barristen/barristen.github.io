@@ -32,10 +32,8 @@ My research interest includes graph learning neural machine translation and comp
 
 [ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Tao Feng^, Ziqi Gao^, Jiaxuan You, **Chenyi Zi**, Yan Zhou, Chen Zhang, Jia Li*
+Tao Feng^, Ziqi Gao^, Jiaxuan You, ***Chenyi Zi***, Yan Zhou, Chen Zhang, Jia Li*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -46,12 +44,12 @@ Tao Feng^, Ziqi Gao^, Jiaxuan You, **Chenyi Zi**, Yan Zhou, Chen Zhang, Jia Li*
 
 [Weakly Supervised Anomaly Detection via Knowledge-Data Alignment](https://openreview.net/pdf?id=EeyaKZtYFX)
 
-Haihong Zhao, **Chenyi Zi**, Yang Liu, Chen Zhang, Yan Zhou, Jia Li*
+Haihong Zhao, ***Chenyi Zi***, Yang Liu, Chen Zhang, Yan Zhou, Jia Li*
 
 
 </div>
 </div>
- **WWW 2024**
+
 
 # 🎖 Honors and Awards
 - *2018.10* First Prize in National Olympiad in Mathematics in Provinces, HuNan, China. 
