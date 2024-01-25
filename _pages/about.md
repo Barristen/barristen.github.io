@@ -35,7 +35,7 @@ My research interest includes graph learning neural machine translation and comp
 Tao Feng^, Ziqi Gao^, Jiaxuan You, ***Chenyi Zi***, Yan Zhou, Chen Zhang, Jia Li*
 
 </div>
-</div>**ICLR 2024**
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/WWW24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,12 +50,16 @@ Haihong Zhao, ***Chenyi Zi***, Yang Liu, Chen Zhang, Yan Zhou, Jia Li*
 
 
 # 🎖 Honors and Awards
+- Yue+ scholarship by 37 [Interactive Entertainment](https://www.37entertainment.net/)
+- *2023.01* National Scholarship.
+- *2022.04* The Finalist Prize in the 2022 ICM/MCM
+- *2022.02* The first prize in the Chinese Mathematics Competition
+- *2022.01* The third place in Huawei Cloud gaussDB Database competition
 - *2018.10* First Prize in National Olympiad in Mathematics in Provinces, HuNan, China. 
-- *2023.01* National Scholarship. 
 
 # 📖 Educations
 - *2023.09 - 2024 (now)*, Mphil in HKUST(GZ)
 - *2023.07 - 2023.09*, RA in HKUST(GZ)
-- *2019.09 - 2023.07*, BS, SCUT(CS)
+- *2019.09 - 2023.07*, South China University of Technology – Computer Science (Full English Teaching), Bachelor
 
 
