@@ -50,8 +50,8 @@ Haihong Zhao, ***Chenyi Zi***, Yang Liu, Chen Zhang, Yan Zhou, Jia Li*
 
 
 # 🎖 Honors and Awards
-- Yue+ scholarship by 37 [Interactive Entertainment](https://www.37entertainment.net/)
-- *2023.01* National Scholarship.
+- *2023.02* **National Scholarship**.
+- *2023.01* Yue+ scholarship by 37 [Interactive Entertainment](https://www.37entertainment.net/)
 - *2022.04* The Finalist Prize in the 2022 ICM/MCM
 - *2022.02* The first prize in the Chinese Mathematics Competition
 - *2022.01* The third place in Huawei Cloud gaussDB Database competition
