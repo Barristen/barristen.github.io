@@ -30,7 +30,7 @@ My research interest includes graph learning neural machine translation and comp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openreview.net/pdf?id=4MsfQ2H0lP)
+[ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openreview.net/forum?id=4MsfQ2H0lP&referrer=%5Bthe%20profile%20of%20Tao%20Feng%5D(%2Fprofile%3Fid%3D)
 
 Tao Feng^, Ziqi Gao^, Jiaxuan You, ***Chenyi Zi***, Yan Zhou, Chen Zhang, Jia Li*
 
@@ -40,7 +40,7 @@ Tao Feng^, Ziqi Gao^, Jiaxuan You, ***Chenyi Zi***, Yan Zhou, Chen Zhang, Jia Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/WWW24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised Anomaly Detection via Knowledge-Data Alignment](https://openreview.net/pdf?id=EeyaKZtYFX)
+[Weakly Supervised Anomaly Detection via Knowledge-Data Alignment](https://openreview.net/forum?id=EeyaKZtYFX&referrer=%5Bthe%20profile%20of%20Chenyi%20Zi%5D(%2Fprofile%3Fid%3D))
 
 Haihong Zhao, ***Chenyi Zi***, Yang Liu, Chen Zhang, Yan Zhou, Jia Li*
 
