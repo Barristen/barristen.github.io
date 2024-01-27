@@ -24,7 +24,7 @@ My research interest includes graph learning neural machine translation and comp
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by WWW24. Thanks to Jia and Hong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by ICLR24. Thanks to Jia and Tao and Ziqi!
-
+- *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
