@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- My name is Chenyi Zi (资琛义), currently a first-year mphil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on graph learning. I received my bachlor degree from Computer Science department, South University of Technolodgy, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
+ My name is Chenyi Zi (资琛义), and I am currently a first-year MPhil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on graph learning. I received my bachelor's degree from Computer Science department, the South University of Technology, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
 
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by WWW24. Thanks to Jia and Hong!
-- *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by ICLR24. Thanks to Jia and Tao and Ziqi!
+- *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by ICLR24. Thanks to Jia, Tao and Ziqi!
 - *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
 # 📝 Publications 
 
