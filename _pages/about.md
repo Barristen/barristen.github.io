@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a mphil student from HKUST(GZ) supervised by Prof.Li
-My research interest includes graph learning neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=uGbNoaQAAAAJ&hl=enJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ My name is Chenyi Zi (资琛义), currently a first-year mphil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on graph learning. I received my bachlor degree from Computer Science department, South University of Technolodgy, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
 
 
 # 🔥 News
