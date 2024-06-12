@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our ProG: A graph prompt bench [website](https://arxiv.org/abs/2406.05346) is published!, see this repo [website](https://github.com/sheldonresearch/ProG)
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by WWW24. Thanks to Jia and Hong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by ICLR24. Thanks to Jia, Tao and Ziqi!
 - *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
@@ -29,7 +30,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openreview.net/forum?id=4MsfQ2H0lP&referrer=%5Bthe%20profile%20of%20Tao%20Feng%5D(%2Fprofile%3Fid%3D)
+[ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openreview.net/forum?id=4MsfQ2H0lP&referrer=%5Bthe%20profile%20of%20Tao%20Feng%5D(%2Fprofile%3Fid%3D)).
 
 Tao Feng^, Ziqi Gao^, Jiaxuan You, ***Chenyi Zi***, Yan Zhou, Chen Zhang, Jia Li*
 
