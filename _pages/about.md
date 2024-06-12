@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our ProG: A graph prompt bench [website](https://arxiv.org/abs/2406.05346) is published!, see this repo [website](https://github.com/sheldonresearch/ProG)
+- *2024.06*: &nbsp;🎉🎉🎉🎉 Our ProG: A Graph Prompt [Bench](https://arxiv.org/abs/2406.05346) is published!, see this [repo](https://github.com/sheldonresearch/ProG)
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by WWW24. Thanks to Jia and Hong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by ICLR24. Thanks to Jia, Tao and Ziqi!
 - *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
