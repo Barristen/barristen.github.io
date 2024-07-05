@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- My name is Chenyi Zi (资琛义), and I am currently a first-year MPhil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on graph learning. I received my bachelor's degree from Computer Science department, the South University of Technology, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
+ My name is Chenyi Zi (资琛义), and I am currently a first-year MPhil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on Graph Pretraining, Graph representation learning, and Graph prompt learning. I received my bachelor's degree from Computer Science department, the South University of Technology, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
 
 
 # 🔥 News
