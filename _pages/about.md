@@ -34,14 +34,14 @@ redirect_from:
 
 **Chenyi Zi**^, Haihong Zhao^, Xiangguo Sun*, Yiqing Lin, Hong Cheng, Jia Li 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/prog.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniGAD: Unifying Multi-level Graph Anomaly Detection](https://neurips.cc/virtual/2024/poster/93390#:~:text=To%20address%20this,%20we%20present%20UniGAD,%20the%20first%20unified%20framework).
 
 Yiqing Lin, Jianheng Tang, **Chenyi Zi**, H. Vicky Zhao, Yuan Yao, Jia Li*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/unigad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openreview.net/forum?id=4MsfQ2H0lP&referrer=%5Bthe%20profile%20of%20Tao%20Feng%5D(%2Fprofile%3Fid%3D)).
