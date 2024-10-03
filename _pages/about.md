@@ -28,7 +28,7 @@ redirect_from:
 - *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/prog24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ ProG: A Graph Prompt Learning Benchmark](https://arxiv.org/abs/2406.05346).
@@ -38,7 +38,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/prog.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/unigad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniGAD: Unifying Multi-level Graph Anomaly Detection](https://neurips.cc/virtual/2024/poster/93390#:~:text=To%20address%20this,%20we%20present%20UniGAD,%20the%20first%20unified%20framework).
