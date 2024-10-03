@@ -28,7 +28,7 @@ redirect_from:
 - *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/prog24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/prog.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ ProG: A Graph Prompt Learning Benchmark](https://arxiv.org/abs/2406.05346).
@@ -48,7 +48,7 @@ Yiqing Lin, Jianheng Tang, **Chenyi Zi**, H. Vicky Zhao, Yuan Yao, Jia Li*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/unigad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Generative Adversarial Policy Network for Modelling Protein Complexes](https://openreview.net/forum?id=4MsfQ2H0lP&referrer=%5Bthe%20profile%20of%20Tao%20Feng%5D(%2Fprofile%3Fid%3D)).
