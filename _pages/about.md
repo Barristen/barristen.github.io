@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- My name is Chenyi Zi (资琛义), and I am currently a first-year MPhil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on **Graph Pre-training**, Graph representation learning, and Graph prompt learning. I received my bachelor's degree from Computer Science department, the South University of Technology, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
+ My name is Chenyi Zi (资琛义), and I am currently a second-year MPhil student at HKUST(GZ), advised by Prof. [Jia Li](https://sites.google.com/view/lijia/courses). My research interests focus on **Graph Pre-training**, Graph representation learning, and Graph prompt learning. I received my bachelor's degree from Computer Science department, the South University of Technology, advised by Prof. [Shengfeng He](http://www.shengfenghe.com/) .
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ redirect_from:
 
 [ ProG: A Graph Prompt Learning Benchmark](https://arxiv.org/abs/2406.05346).
 
-**Chenyi Zi**^, Haihong Zhao^, Xiangguo Sun*, Yiqing Lin, Hong Cheng, Jia Li 
+***Chenyi Zi***^, Haihong Zhao^, Xiangguo Sun*, Yiqing Lin, Hong Cheng, Jia Li 
 
 </div>
 </div>
@@ -43,7 +43,7 @@ redirect_from:
 
 [UniGAD: Unifying Multi-level Graph Anomaly Detection](https://neurips.cc/virtual/2024/poster/93390#:~:text=To%20address%20this,%20we%20present%20UniGAD,%20the%20first%20unified%20framework).
 
-Yiqing Lin, Jianheng Tang, **Chenyi Zi**, H. Vicky Zhao, Yuan Yao, Jia Li*
+Yiqing Lin, Jianheng Tang, ***Chenyi Zi***, H. Vicky Zhao, Yuan Yao, Jia Li*
 
 </div>
 </div>
