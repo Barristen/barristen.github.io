@@ -21,11 +21,25 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Two papers have been acccepted by Neurips24. Thanks to Jia ,Xiangguo, Hong and Yiqing!
 - *2024.06*: &nbsp;🎉🎉🎉🎉 Our ProG: A Graph Prompt [Bench](https://arxiv.org/abs/2406.05346) is published!, see this [repo](https://github.com/sheldonresearch/ProG)
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by WWW24. Thanks to Jia and Hong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been acccepted by ICLR24. Thanks to Jia, Tao and Ziqi!
 - *2023.09*: &nbsp;🎉🎉 the [website](https://graphprompt.github.io) of 23KDD best paper -- **All in One: Multi-Task Prompting for GNN** in research track is online, Congratulation to Xiangguo!
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ ProG: A Graph Prompt Learning Benchmark](https://arxiv.org/abs/2406.05346).
+
+**Chenyi Zi**^, Haihong Zhao^, Xiangguo Sun*, Yiqing Lin, Hong Cheng, Jia Li 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniGAD: Unifying Multi-level Graph Anomaly Detection](https://neurips.cc/virtual/2024/poster/93390#:~:text=To%20address%20this,%20we%20present%20UniGAD,%20the%20first%20unified%20framework).
+
+Yiqing Lin, Jianheng Tang, **Chenyi Zi**, H. Vicky Zhao, Yuan Yao, Jia Li*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
